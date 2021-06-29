@@ -22,4 +22,4 @@ def dates(days):
 year = 2021
 wanted_year = 2008
 year = round((year - wanted_year) * 365.24)
-create(year, "commit.py", open(__file__).read(), "Commit", "DONE", "https://github.com/lolis12/pop4.git")
+create(year, "commit.py", open(__file__).read(), "Commit", "DONE", "https://github.com/lolis12/git-spoofer.git")
